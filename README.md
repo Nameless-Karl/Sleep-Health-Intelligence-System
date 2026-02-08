@@ -45,5 +45,5 @@ Walking (Daily Steps) was identified as the primary regulator for cortisol in th
 3. Launch Jupyter Lab: `jupyter lab`
 
 
-Catch the full here: <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7426371765041287168?collapsed=1" height="521" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 

@@ -23,7 +23,7 @@ For the Overweight demographic, **Stress Management** is the single highest leve
 Walking (Daily Steps) was identified as the primary regulator for cortisol in this group. Higher step counts correlated directly with the ability to maintain the "Low Stress" state.
 
 ![Impact of Stress Reduction on Sleep Quality](stress_chart.png)
-![Composition of the "Sleep Quality 9"  Group by Occupation](stress_chart.png)
+![Composition of the "Sleep Quality 9"  Group by Occupation](occupation.png)
 
 
 ## 🛠️ Tech Stack
@@ -41,3 +41,4 @@ Walking (Daily Steps) was identified as the primary regulator for cortisol in th
 2. Install dependencies: `pip install -r requirements.txt`
 
 3. Launch Jupyter Lab: `jupyter lab`
+

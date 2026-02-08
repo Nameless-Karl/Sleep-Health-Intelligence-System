@@ -1,4 +1,6 @@
 # Sleep Health Intelligence System: The "Efficiency" Paradox 🧬
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nameless-Karl/Sleep-Health-Intelligence-System/blob/main/Tinyuka_2025_Project.ipynb)
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
@@ -41,5 +43,6 @@ Walking (Daily Steps) was identified as the primary regulator for cortisol in th
 2. Install dependencies: `pip install -r requirements.txt`
 
 3. Launch Jupyter Lab: `jupyter lab`
+
 
 
